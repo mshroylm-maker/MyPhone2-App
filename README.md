@@ -1,0 +1,2 @@
+# MyPhone2-App
+جهاز S20 Ultra SM-G988U1، IMEI وBaseband Unknown، أريد فحص المودم واستعادة بيانات IMEI الأصلية دون تغييرها أو مسح EFS».
